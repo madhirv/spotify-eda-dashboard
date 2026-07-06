@@ -47,3 +47,22 @@ This project investigates the relationship between audio features (loudness, dan
 ---
 
 ## 📁 Repository Structure
+spotify-eda-dashboard/
+├── README.md
+├── spotify_eda.ipynb          # Full EDA notebook (cleaning, univariate/multivariate analysis)
+├── Spotify dashboard.pbix     # Power BI dashboard file
+└── dashboard.jpg              # Dashboard screenshot
+
+---
+
+## 🚀 How to View
+
+- **Notebook:** Open `spotify_eda.ipynb` directly on GitHub, or clone the repo and run locally with Jupyter
+- **Dashboard:** Download `Spotify dashboard.pbix` and open with [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (free)
+
+---
+
+## 👤 Author
+
+**Vaishnavi Madhiraju**
+[LinkedIn](https://linkedin.com/in/vaishnavimadhiraju) · [GitHub](https://github.com/madhirv)
